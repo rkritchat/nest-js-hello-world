@@ -1,0 +1,5 @@
+{
+    "typescriptHero.imports.organizeOnSave": true,
+    "typescriptHero.imports.organizeSortsByFirstSpecifier": true,
+    "autoimport.useSemiColon": false
+}
